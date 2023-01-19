@@ -1,8 +1,11 @@
+import Weather from "./Components/Weather";
 
 
 function App() {
   return (
-   <h1>Hello</h1>
+   <h1>Hello
+    <Weather />
+   </h1>
    
   );
 }
