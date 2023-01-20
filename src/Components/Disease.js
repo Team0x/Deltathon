@@ -2,7 +2,7 @@ import axios from 'axios'
 import React, { useState } from 'react'
 import './Css/Disease.css'
 import Navbar from './Navbar'
-import Footer from './Footer'
+
 import DiseaseData from './Disease_Description.json'
 const headersList = {
   "Accept": "*/*"
@@ -64,7 +64,7 @@ function Disease() {
     </div>
   </div>
   </div>
-  <Footer/>
+ 
   </>
   )
 }

@@ -32,7 +32,7 @@ export default function Navbar() {
               <Link className="nav-link mx-2" to="/detection">Detection</Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link mx-2" to="/weatherforecast"> Weatherforecast</Link>
+              <Link className="nav-link mx-2" to="/weather"> Weather</Link>
             </li>
             <li className="nav-item">
               <Link className="nav-link mx-2" to="/contract">contact us</Link>
